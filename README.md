@@ -21,7 +21,7 @@ This repository contains a PowerShell script for automated File Integrity Monito
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/SilentAshes/FIM.git](https://github.com/SilentAshes/FIM.git)
+    git clone https://github.com/SilentAshes/FIM.git
     ```
 
 ### Usage
